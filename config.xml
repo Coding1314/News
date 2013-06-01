@@ -28,6 +28,8 @@
 	
 
 	<access origin="*" /> 
+	<access origin="http://*.appledaily.com.tw" browserOnly="true" />
+
 
 	
 </widget>
