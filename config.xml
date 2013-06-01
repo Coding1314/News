@@ -27,7 +27,7 @@
 	<preference name="android-installLocation" value="auto" />
 	
 
-	<access origin="*" /> 
+	<access origin="http://*.i-favorites.net" /> 
 	<access origin="http://*.appledaily.com.tw" browserOnly="true" />
 
 
