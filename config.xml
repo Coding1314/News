@@ -2,12 +2,12 @@
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
 	id		= "net.i-Favorites.News"
-	version 	= "1.0.4">
+	version 	= "1.0.5">
                                         
 	<name>行動新聞王</name>
 
 	<description>
-《行動新聞王》由i-Favorites.net製作，為大家收集了台灣最完整的新聞媒體（包含蘋果日報、中時電子報、聯合新聞網、自由時報、今日新聞NOWnews等）的RSS摘要，妥善分類。
+《行動新聞王》由i-Favorites.net製作，為大家收集了台灣最完整的新聞媒體的RSS摘要，妥善分類。
 配合活頁簿的版面設計，讓使用者更有閱讀的FU！
 
 </description>
