@@ -26,7 +26,7 @@
 	<preference name="android-installLocation" value="auto" />
 	
 
-	<access origin="*.*" /> 
+	<access origin="http://*.i-Favorites.net" /> 
 
 
 	
