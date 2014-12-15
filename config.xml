@@ -2,7 +2,7 @@
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
 	id		= "net.i-Favorites.News"
-	version 	= "1.0.9">
+	version 	= "1.1.0">
                                         
 	<name>行動新聞王</name>
 
@@ -23,7 +23,6 @@
 	<feature name="http://api.phonegap.com/1.0/network"/>
 	
 	<preference name="orientation" value="auto" />
-	<preference name="stay-in-webview" value="true" />
 	<preference name="android-installLocation" value="auto" />
 	
 
