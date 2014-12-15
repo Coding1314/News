@@ -25,25 +25,17 @@
 </head>
 
 <body scroll="no">
-
+<P  style="height:150px;">
 <center>
 <img src="images/loading.gif"><BR>
 </center>
 
 <script>
-var url = location.hash
-setTimeout("location.href='+url+'",1000);
-
+var url1 = location.search ;
+var url = url1.replace("?url=","");
+setTimeout("location.href=url",1000);
 </script>
 
-<!----
-<h1>Loading...</h1>
-<script type="text/javascript">
-var docid= "https://drive.google.com/file/d/0B_pjivVJ3AXVN3I0aVNnLTNBY00/view?usp=sharing"; 
-var frame_height  = screen.height *0.82 ;
-document.write('<iframe src="'+docid+'" width="100%" height="'+frame_height+'" scrolling="no"></iframe>');
-</script>
-==>
 
 </body>
 </html>
